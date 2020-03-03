@@ -9,7 +9,7 @@ the child class have same properties of the parent class.
 
 ### Polymorphism
 Just like a chemical element can be in multiple forms, 
-classes can do the same to ensure code resusability.
+classes can do the same.
 
 ### Abstraction
 This is to ensure simplicity of the code.
